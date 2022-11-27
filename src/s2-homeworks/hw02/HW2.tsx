@@ -52,7 +52,6 @@ function HW2() {
     const deleteAffairCallback = (_id: number) => { // need to fix any
         setAffairs(deleteAffair(affairs, _id))
     }
-    console.log(affairs)
 
     return (
         <div id={'hw2'}>
