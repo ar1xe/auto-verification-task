@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/auto-verification-task/static/css/main.3603303b.css",
-    "main.js": "/auto-verification-task/static/js/main.44419d4d.js",
+    "main.js": "/auto-verification-task/static/js/main.b3690b4a.js",
     "static/js/787.66cb4309.chunk.js": "/auto-verification-task/static/js/787.66cb4309.chunk.js",
     "static/media/200.svg": "/auto-verification-task/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
     "static/media/error.svg": "/auto-verification-task/static/media/error.5a3135f381b00b53044eff200e725391.svg",
+    "static/media/500.svg": "/auto-verification-task/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
     "static/media/400.svg": "/auto-verification-task/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
     "static/media/404.svg": "/auto-verification-task/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/closeOutline.svg": "/auto-verification-task/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
@@ -13,11 +14,11 @@
     "static/media/checked.svg": "/auto-verification-task/static/media/checked.b75ca55e8759862b4083.svg",
     "static/media/burger.svg": "/auto-verification-task/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.3603303b.css.map": "/auto-verification-task/static/css/main.3603303b.css.map",
-    "main.44419d4d.js.map": "/auto-verification-task/static/js/main.44419d4d.js.map",
+    "main.b3690b4a.js.map": "/auto-verification-task/static/js/main.b3690b4a.js.map",
     "787.66cb4309.chunk.js.map": "/auto-verification-task/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3603303b.css",
-    "static/js/main.44419d4d.js"
+    "static/js/main.b3690b4a.js"
   ]
 }
